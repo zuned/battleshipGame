@@ -1,0 +1,9 @@
+## allowed input values [commandLine/fileBased]
+provider=fileBased
+userinput.battleFieldDimension=1 A
+userinput.numberOfBattleShip=1
+## please provide same number of input as the number of ships by indexing with _
+userinput.battleShip.battleShipsInfo_1=Q 1 1 A1 A1
+## please provide same number of input as the number of players by indexing with _
+userinput.player.HitTargetCoordinate_1=A1 
+userinput.player.HitTargetCoordinate_2=A1 A1
